@@ -1,6 +1,6 @@
 
 <p align="center">
-    ![image](https://github.com/nxexdev/novaroma2/assets/137663681/299d185b-455e-4922-ab51-3223d0ebe0e3)
+(https://imgur.com/bvqtYXS)
 </p>
 
 
