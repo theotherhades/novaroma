@@ -1,7 +1,8 @@
 
 <p align="center">
-    ![cde_chatbot_constantiam](https://github.com/nxexdev/novaroma2/assets/137663681/8895e32f-3ca4-4ec9-9a15-ca9c8212ad13)
 </p>
+![cde_chatbot_constantiam](https://github.com/nxexdev/novaroma2/assets/137663681/d2311cc4-c00e-4584-9dcc-8aee1f42385f)
+
 
 <h1 align="center">Novaroma</h1>
 <p align="center">A decent minecraft mod, that may or may not crash everytime you use it. </p>
