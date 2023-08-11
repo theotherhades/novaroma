@@ -145,7 +145,8 @@ public class DiscordPresence extends Module {
 
     @Override
     public void onActivate() {
-        DiscordIPC.start(1134387601986560072L, null);
+        //DiscordIPC.start(1134387601986560072L, null);
+        DiscordIPC.start(1139448521397903392L, null);
 
         rpc.setStart(System.currentTimeMillis() / 1000L);
 

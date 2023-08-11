@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "name": "novaroma",
+  "name": "Novaroma",
   "id": "meteor-client",
   "version": "${version}",
   "description": "The Future of Meteor Client.",

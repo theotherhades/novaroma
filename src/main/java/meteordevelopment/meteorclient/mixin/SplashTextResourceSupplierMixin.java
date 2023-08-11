@@ -33,6 +33,7 @@ public class SplashTextResourceSupplierMixin {
     }
 
     private static List<String> getMeteorSplashes() {
+        /*
         return Arrays.asList(
                 "Meteor on Crack!",
                 "Star Meteor Client on GitHub!",
@@ -41,6 +42,11 @@ public class SplashTextResourceSupplierMixin {
                 "§4meteorclient.com",
                 "§4Meteor on Crack!",
                 "§6Meteor on Crack!"
+        );
+        */
+        return Arrays.asList(
+            "IVCO on top!",
+            "It's a fucking hacked client not a \"utility mod\" you retards" // Add more later
         );
     }
 
